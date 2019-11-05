@@ -14,7 +14,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value="unknown"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="/home/talend/Bureau/TestUnitaireInsset"/>
+    <property name="user.dir" value="/home/talend/Documents/TestUnitaireInsset"/>
     <property name="java.runtime.version" value="1.8.0_45-b14"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="/usr/local/java/jre/lib/endorsed"/>
@@ -61,5 +61,5 @@
   </properties>
   <testcase classname="[0] 1\u002C false (testIsPremier)(com.mycompany.testunitaireinsset.NombrePremier.NombrePremierParameterJunitTest)" name="[0] 1\u002C false " time="0.003"/>
   <testcase classname="[1] 11\u002C true (testIsPremier)(com.mycompany.testunitaireinsset.NombrePremier.NombrePremierParameterJunitTest)" name="[1] 11\u002C true " time="0"/>
-  <testcase classname="[2] 10\u002C false (testIsPremier)(com.mycompany.testunitaireinsset.NombrePremier.NombrePremierParameterJunitTest)" name="[2] 10\u002C false " time="0"/>
+  <testcase classname="[2] 10\u002C false (testIsPremier)(com.mycompany.testunitaireinsset.NombrePremier.NombrePremierParameterJunitTest)" name="[2] 10\u002C false " time="0.001"/>
 </testsuite>
